@@ -277,8 +277,8 @@ This program calculates the shortest distances from the source vertex 0 to all o
 
 # graph colouring backtracking
 
-# Python3 program to implement greedy
-# algorithm for graph coloring
+#Python3 program to implement greedy
+#algorithm for graph coloring
 This line is a comment indicating that the code below implements the greedy algorithm for graph coloring in Python.
 
 python
